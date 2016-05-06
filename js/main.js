@@ -1,3 +1,11 @@
+function text_on_img_location(){
+	var ot = $(".nav").offset().left;
+	var text = $("#text-on-img");
+	text.css({
+			left: ot
+		});
+}
+
 $(function() {
 	var bannerSlider = new Slider($('#banner_tabs'), {
 		time: 5000,
@@ -14,4 +22,14 @@ $(function() {
 	$('#banner_tabs .flex-next').click(function() {
 		bannerSlider.next()
 	});
-})
+	text_on_img_location();
+	$(window).resize(function(){
+		text_on_img_location();
+		});
+});
+
+
+
+
+
+

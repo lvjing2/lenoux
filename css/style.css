@@ -344,6 +344,37 @@ h2{font-size: 20px;color: #E22319; }
 
 /*end slide*/
 
+/* text on banner image */
+.text-on-img{
+	width: 100%;
+	position: absolute;
+	top: 250px; 
+}
+
+.text-on-img p{
+	margin-top: 15px;
+	line-height: 20px;
+	font-size: 14px;
+	margin-right: 20px;
+	letter-spacing: 1px;
+}
+
+.text-on-img .fl{
+	float: left;
+	margin-left: 5px;
+}
+
+.text-on-img .fr{
+	float: right;
+	margin-right: 5px;
+}
+
+.text-on-img .num p{
+	font-size: 18px;
+	color:#e2231a;
+	text-align: right;
+}
+/* text on banner image */
 
 /*start main*/
 .main, .also-like-title, .also-like-content{ width:695px; }
@@ -376,6 +407,10 @@ h2{font-size: 20px;color: #E22319; }
     width: 455px;
     height: 175px;
     display: table;
+}
+
+.description a{
+	color: #000;
 }
 .description h3{
     font-size: 18px;
