@@ -15,11 +15,11 @@ body,h1,h2,h3,h4,h5,p,dl,dd,ul,ol,form,input,textarea,th,td,select { margin:0; p
 em { font-style:normal; }
 li { list-style:none; }
 a { text-decoration:none; }
-img { border:none; vertical-align:top; max-width: 100%; max-height: 100%; object-fit: fill;}
+img { border:none; vertical-align:top; max-width: 100%; max-height: 100%;}
 table { border-collapse:collapse; }
 input,textarea { outline:none; }
 textarea { resize:none; overflow:auto; }
-p{ margin-top: 15px; line-height: 20px; font-size: 14px; margin-right: 20px; letter-spacing: 1px;}
+
 body { font-family: chinese_custom,  微软雅黑; font-size:12px;}
 /* end reset */
 
@@ -68,6 +68,7 @@ h2{font-size: 20px;color: #E22319; }
 
 /*start header*/
 #header, #nav_bar, .content, .coop-title, .cooper,.footer-wrap{ width:960px; margin:0 auto; }
+.content{min-height: 950px;}
 #header { height:100px; border-radius:0 0 6px 6px;}
 #header .logo{float: left;}
 
@@ -146,12 +147,12 @@ h2{font-size: 20px;color: #E22319; }
     top: 5px;
     float: right;
     height:36px;
-    width: 130px;
+    width: 120px;
 }
 #nav_bar .share a{
     float: left;
     display: block;
-    margin-left: 15px;
+    margin: auto 0;
     width:36px; height: 32px;
     background: url(../imgs/share.png) no-repeat;
 }
@@ -356,6 +357,11 @@ h2{font-size: 20px;color: #E22319; }
 }
 
 .wrapper-text-div p{
+	margin-top: 15px; 
+	line-height: 20px; 
+	font-size: 14px; 
+	margin-right: 20px; 
+	letter-spacing: 1px;
 	color: #FFF;	
 }
 
@@ -501,6 +507,28 @@ h2{font-size: 20px;color: #E22319; }
 .article p{
 	margin-top: 15px;
 	line-height: 20px;
+	font-size: 14px;
+	margin-right: 20px;
+	letter-spacing: 1px;
+}
+
+.article ol>li{
+	clear: both;
+	list-style-position: inside;
+	list-style-type: decimal;
+}
+
+.article ul>li{
+	clear: both;
+	list-style-position: inside;
+	list-style-type: disc;
+}
+ 
+.article ol li{
+	padding-left: 0em;
+	text-indent: -0em;
+	margin-top: 10px;
+	line-height: 30px;
 	font-size: 14px;
 	margin-right: 20px;
 	letter-spacing: 1px;

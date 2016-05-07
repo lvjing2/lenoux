@@ -1,8 +1,13 @@
 function text_on_img_location(){
 	var ot = $(".nav").offset().left;
-	var text = $("[id^=text-on-img]").each(function(index, element) {
+	$("[id^=text-on-img]").each(function(index, element) {
 		$(this).css({
 			left: ot
+			});
+    });
+	$("[id^=jd]").each(function(index, element) {
+        $(this).css({
+			left: ot+100
 			});
     });
 }

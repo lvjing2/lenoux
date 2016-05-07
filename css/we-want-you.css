@@ -1,0 +1,15 @@
+#jd1{
+	position: absolute;
+	top: 150px;
+	width: 160px;
+	height: 100px;
+}
+
+.title-1{
+	font-weight:bold;	
+}
+
+#jd1-article{
+	background-color: #eeeeee;
+	padding: 10px;	
+}
