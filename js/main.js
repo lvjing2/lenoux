@@ -10,6 +10,18 @@ function text_on_img_location(){
 			left: ot+100
 			});
     });
+	
+	$("#intern1").css({
+			left: ot+100
+	});
+			
+	$("#intern2").css({
+			left: ot+400
+	});
+			
+	$("#intern3").css({
+			left: ot+150
+	});
 }
 
 $(function() {

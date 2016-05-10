@@ -466,6 +466,15 @@ h2{font-size: 20px;color: #E22319; }
 .article{
 	width: 100%;
 	display: table;
+	background-color: #eeeeee;
+	padding: 10px;	
+}
+
+.article-title{
+//	font-weight:bold;
+	font-size: 30px;
+	letter-spacing: 1px;
+	margin-left: 10px;
 }
 
 .article h3{
@@ -532,6 +541,10 @@ h2{font-size: 20px;color: #E22319; }
 	font-size: 14px;
 	margin-right: 20px;
 	letter-spacing: 1px;
+}
+
+.article .title{
+	background-color: #FFF;	
 }
 /* end article */
 
@@ -666,6 +679,30 @@ h2{font-size: 20px;color: #E22319; }
 	color: #c0c5ce;
 }
 /* end also like */
+
+/* read more */
+.read-more-wrap{
+	height: auto;	
+}
+
+.read-more{
+	padding: 3px; 
+	position: relative; 
+	float: right; 
+	background-color: #CCC; 
+	vertical-align: middle;
+}
+
+.read-more span{
+	color: #FFF;
+	vertical-align: middle;
+}
+
+.read-more img{
+	width: 30px;
+	height: 15px;
+}
+/* read more */
 
 /*start cooperation*/
 .coop_wapper{
