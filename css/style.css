@@ -350,10 +350,10 @@ h2{font-size: 20px;color: #E22319; }
 
 .wrapper-text-div{
 	position: absolute;
+	width: 100%;
 	background-color: #000;
 	opacity: 0.50;
-	width: 100%;
-	bottom: 0px;	
+	bottom: 0px;
 }
 
 .wrapper-text-div p{
@@ -365,7 +365,7 @@ h2{font-size: 20px;color: #E22319; }
 	color: #FFF;	
 }
 
-.wrapper-text-div #text-on-img{
+.wrapper-text-div .text-on-img{
 	width: 960px;
 	margin: auto;
 }
@@ -375,11 +375,35 @@ h2{font-size: 20px;color: #E22319; }
 /*wrapper text on background*/
 
 /* text on banner image */
-.text-on-img{
+/* .text-on-img{
 	width: 960px;
-	position: absolute;
+	position: relative;
 	top: 50px; 
+}*/
+
+.wrapper-text-on-img{
+	position: absolute;
+	width: 100%;
 }
+
+.wrapper-text-on-img .text-on-img{
+	width: 960px;
+	margin: 0 auto;
+}
+
+#general-text-on-img{
+	top: 50px;	
+}
+
+#jd-text-on-img{
+	top: 150px;	
+}
+.img-on-img{
+	width: 960px;
+	margin: auto;
+}
+
+
 
 .text-on-img p{
 	margin-top: 15px;
@@ -704,6 +728,24 @@ h2{font-size: 20px;color: #E22319; }
 }
 /* read more */
 
+/* back to top */
+.back-to-top{
+	position: fixed; 
+	bottom: 50px;
+	right: 50px;
+}
+
+.back-to-top a{
+	display: none;	
+}
+
+.back-to-top img{
+	width: 40px;
+	height: auto; 	
+}
+
+/* back to top */
+
 /*start cooperation*/
 .coop_wapper{
     width: 100%;
@@ -758,7 +800,11 @@ h2{font-size: 20px;color: #E22319; }
 
 }
 
-.lux-in, .two-dimension-code, .contact{
+.two-dimension-code{
+	float: left;
+}
+
+.lux-in, .contact{
     float: left;
 }
 .lux-in{
