@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+
+<?php include '../define.php';?>
+
 <head>
 	<meta name="name" content="content" charset="utf-8">
 	<title>Lenovo User Experience Labs</title>
@@ -7,69 +10,8 @@
 
 </head>
 <body>
-	<!-- start header -->
-	<div id="wrap">
-		<div id="header" >
-			<h1 class="logo" title="Lenovo User Experience Labs"><a href="#"><img src="../imgs/logo.jpg" alt="Lenovo User Experience Labs" /></a></h1>
-			
-			<div class="search-area clear">
-				<input class="search"  type="text" name="" value="" placeholder="请输入关键字">
-				<span class="ipt_photo"><a href=""><img src="../imgs/icons/search.jpg" alt=""></a></span>
-			</div>
-		</div>		
-	</div>
-	<!-- end header -->
 
-	<!-- start nav -->
-	<div id="wrap_nav">
-		<div id="nav_bar">
-			<ul class="nav">
-		        <li class="first-nav"><a href="../index.html">首页</a></li>
-		        <li class="first-nav"><a href="#">关于L.U.X<span class ="trangle_down"></a>
-		            <ul class="subs">
-		                <li><a href="../about/general.html">概览</a></li>
-		                <li><a href="../about/dev-history.html">发展史</a></li>
-		                <li><a href="../about/3d.html">3D参观</a></li>
-		                <li><a href="../about/mem-intro.html">成员介绍</a></li>
-		                <li><a href="../about/famous-person.html">著名人物</a></li>
-		                <li><a href="#">国际化L.U.X</a></li>
-		                <li><a href="#">联系我们</a></li>
-		            </ul>
-		        </li>
-		        <li class="first-nav"><a href="#">线下活动<span class ="trangle_down"></a>
-		            <ul class="subs">
-		                <li><a href="../offline/we-want-you.html">We Want U</a></li>
-		                <li><a href="#">访问体验</a></li>
-		                <li><a href="#">日常生活</a></li>
-		                <li><a href="../offline/intern.html">实习生明星故事</a></li>
-		            </ul>
-		        </li>
-		        <li class="first-nav"><a href="#">研究案例<span class ="trangle_down"></a>
-					<ul class="subs">
-		                <li><a href="../research/product.html">基础产品介绍</a></li>
-		                <li><a href="#">明星产品/案例</a></li>
-		                <li><a href="../research/test.html">测试场景</a></li>
-		                <li><a href="#">奖项</a></li>
-		            </ul>
-		        </li>
-		        <li class="first-nav"><a href="#">L.U.X 学院<span class ="trangle_down"></a>
-					<ul class="subs">
-		                <li><a href="#">workshop</a></li>
-		                <li><a href="#">干货</a></li>
-		                <li><a href="#">线上课堂</a></li>
-		                <li><a href="#">博士问答</a></li>
-                        <li><a href="../academic/vr.html">VR</a></li>
-		            </ul>
-		        </li>
-		    </ul>
-	        <p class="share">
-	        	<a href="#" class="icon1"></a>
-	        	<a href="#" class="icon2"> </a>
-	        </p>
-	    	<div style="clear:both"></div>
-    	</div>
-	</div>
-	<!-- end nav -->
+	<?php include $header_file;?>
 
 	<!-- start flexslider -->
     
@@ -255,53 +197,7 @@
 		</div>
 	</div>
     
-    
-	
-
-
-	
-
-	<div class="coop_wapper">
-		<h2 class="coop-title">Cooperative Partner 合作伙伴</h2>
-
-	</div>
-	<div class = "cooper">
-		<ul class="company">
-			<li class="cat-1"><a href=""></a></li>
-			<li class="cat-2"><a href=""></a></li>
-			<li class="cat-3"><a href=""></a></li>
-			<li class="cat-4"><a href=""></a></li>
-			<li class="cat-5"><a href=""></a></li>
-			<li class="cat-6"><a href=""></a></li>
-			<li class="cat-7"><a href=""></a></li>
-			<li class="cat-8"><a href=""></a></li>
-			<li class="cat-9"><a href=""></a></li>
-			<li class="cat-10"><a href=""></a></li>
-			<li class="cat-11"><a href=""></a></li>
-			<li class="cat-12"><a href=""></a></li>
-			<li class="cat-13"><a href=""></a></li>
-			<li class="cat-14"><a href=""></a></li>
-			<li class="cat-15"><a href=""></a></li>
-		</ul>
-			
-	</div>
-
-	<div class="footer">
-		<div class="footer-wrap">
-			<h2 class="lux-in" style="font-family: mvboli">LUX.EXCELLENCE IN EXPERIENCE</h2>
-			<div class="two-dimension-code">
-				<span style="text-align: center;"><img src="../imgs/icons/twodimecode.gif" alt=""></span>
-			</div>
-			<div class="contact">
-				<p class="addr">地址：上海市浦东新区松涛路696号  联想大厦<br/>*******************</p>
-				<p class="eml">邮箱：**************</p>
-			</div>
-		</div>
-	</div>
-
-	<div class="back-to-top">
-    	<a title="返回顶部" id="back-to-top" href="#"><img style="background: url(../imgs/icons/back-to-top.png)" src="../imgs/slide_imgs/alpha.png"></a>
-    </div>
+	<?php include $footer_file;?>
     
 </body>
 	<!-- <script src="../js/sticky.js"></script> -->
