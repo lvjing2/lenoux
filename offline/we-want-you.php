@@ -15,9 +15,9 @@
 	<div id="banner_tabs" class="flexslider">
         <ul class="slides">
             <li>
-                    <img width="1920" height="482" alt="" style="background: url(../imgs/offline/banner-1.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                    <img class="banner-img" alt="" style="background: url(../imgs/offline/banner-1.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
                 <div id="jd-text-on-img" class="wrapper-text-on-img clear">
-            		<div class="img-on-img">
+            		<div class="clear img-on-img">
                         <div style="margin-left: 50px;">
                             <img alt="" src="../imgs/offline/jd-1-small.png">
                         </div>

@@ -224,7 +224,8 @@ h2{font-size: 20px;color: #E22319; }
 }
 
 .nav ul li a:hover {
-    background:#FD521E;
+ /*   background:#FD521E;*/
+    background: #e2231a;
     background-image: -webkit-gradient(linear, 0% 0%, 0% 95%, from(rgba(255, 255, 255, 0.5)), to(rgba(255, 255, 255, 0)));
     background-image: -moz-linear-gradient(-90deg, rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0));
     background-image: -o-linear-gradient(-90deg,rgba(255,255,255,0.5),rgba(255,255,25,0));
@@ -266,9 +267,11 @@ h2{font-size: 20px;color: #E22319; }
     height: 100%;
 }
 
-.flexslider .slides img{
-    min-width: 1920px;
-
+.banner-img{
+    width: 1920px;
+    height: 482px;
+    min-width: 1600px;
+    object-fit: cover;
 }
     
 .flex-direction-nav a {

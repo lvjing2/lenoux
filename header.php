@@ -38,8 +38,7 @@
 		        </li>
 		        <li class="first-nav"><a href="#">研究案例<span class ="trangle_down"></a>
 					<ul class="subs">
-		                <li><a href="<?php echo WEB_ROOT_DIR?>./research/product.php">基础产品介绍</a></li>
-		                <li><a href="#">明星产品/案例</a></li>
+		                <li><a href="<?php echo WEB_ROOT_DIR?>./research/product.php">产品案例</a></li>
 		                <li><a href="<?php echo WEB_ROOT_DIR?>./research/test.php">测试场景</a></li>
 		                <li><a href="#">奖项</a></li>
 		            </ul>

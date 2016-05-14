@@ -14,7 +14,7 @@
 	<div id="banner_tabs" class="flexslider">
         <ul class="slides">
             <li>
-                    <img width="1920" height="753" alt="" style="background: url(../imgs/offline/intern/intern-3.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                    <img class="banner-img" alt="" style="background: url(../imgs/offline/intern/intern-3.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
             </li>
         </ul>
         <!--

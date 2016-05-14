@@ -16,17 +16,17 @@
         <ul class="slides">
             <li>
                 <a title="" href="./product1.php">
-                    <img width="1920" height="682" alt="" style="background: url(../imgs/research/product_imgs/img1.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                    <img class="banner-img" alt="" style="background: url(../imgs/research/product_imgs/img1.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
                 </a>
             </li>
             <li>
                 <a title="" href="./product2.php">
-                    <img width="1920" height="682" alt="" style="background: url(../imgs/research/product_imgs/img2.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                    <img class="banner-img" alt="" style="background: url(../imgs/research/product_imgs/img2.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
                 </a>
             </li>
             <li>
                 <a title="" href="./product3.php">
-                    <img width="1920" height="682" alt="" style="background: url(../imgs/research/product_imgs/img3.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                    <img class="banner-img" alt="" style="background: url(../imgs/research/product_imgs/img3.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
                 </a>
             </li>
         </ul>

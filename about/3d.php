@@ -15,31 +15,31 @@
 	<div id="banner_tabs" class="flexslider">
         <ul class="slides">
             <li>
-                <img width="1920" height="482" alt="" style="background: url(../imgs/about/3d/office-1-small.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                <img class="banner-img" alt="" style="background: url(../imgs/about/3d/office-1.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
             </li>
             <li>
-                <img width="1920" height="482" alt="" style="background: url(../imgs/about/3d/office-2-small.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                <img class="banner-img" alt="" style="background: url(../imgs/about/3d/office-2.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
             </li>
             <li>
-                <img width="1920" height="482" alt="" style="background: url(../imgs/about/3d/office-3-small.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                <img class="banner-img" alt="" style="background: url(../imgs/about/3d/office-3.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
             </li>
             <li>
-                <img width="1920" height="482" alt="" style="background: url(../imgs/about/3d/office-4-small.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                <img class="banner-img" alt="" style="background: url(../imgs/about/3d/office-4.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
             </li>
             <li>
-                <img width="1920" height="482" alt="" style="background: url(../imgs/about/3d/office-5-small.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                <img class="banner-img" alt="" style="background: url(../imgs/about/3d/office-5.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
             </li>
             <li>
-                <img width="1920" height="482" alt="" style="background: url(../imgs/about/3d/office-6-small.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                <img class="banner-img" alt="" style="background: url(../imgs/about/3d/office-6.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
             </li>
             <li>
-                <img width="1920" height="482" alt="" style="background: url(../imgs/about/3d/office-7-small.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                <img class="banner-img" alt="" style="background: url(../imgs/about/3d/office-7.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
             </li>
             <li>
-                <img width="1920" height="482" alt="" style="background: url(../imgs/about/3d/office-8-small.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                <img class="banner-img" alt="" style="background: url(../imgs/about/3d/office-8.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
             </li>
             <li>
-                <img width="1920" height="482" alt="" style="background: url(../imgs/about/3d/office-9-small.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                <img class="banner-img" alt="" style="background: url(../imgs/about/3d/office-9.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
             </li>
         </ul>
         <ul class="flex-direction-nav">

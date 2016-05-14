@@ -16,27 +16,27 @@
         <ul class="slides">
             <li>
                 <a title="" target="_blank" href="#">
-                    <img width="1920" height="482" alt="" style="background: url(./imgs/slide_imgs/banner-1.png) no-repeat center;" src="./imgs/slide_imgs/banner-1.png">
+                    <img class="banner-img" alt="" style="background: url(./imgs/slide_imgs/banner-1.png) no-repeat center;" src="./imgs/slide_imgs/banner-1.png">
                 </a>
             </li>
             <li>
                 <a title="" href="#">
-                    <img width="1920" height="482" alt="" style="background: url(./imgs/slide_imgs/banner-2.png) no-repeat center;" src="./imgs/slide_imgs/banner-2.png">
+                    <img class="banner-img" alt="" style="background: url(./imgs/slide_imgs/banner-2.png) no-repeat center;" src="./imgs/slide_imgs/banner-2.png">
                 </a>
             </li>
             <li>
                 <a title="" href="#">
-                    <img width="1920" height="482" alt="" style="background: url(./imgs/slide_imgs/banner-3.png) no-repeat center;" src="./imgs/slide_imgs/banner-3.png">
+                    <img class="banner-img" alt="" style="background: url(./imgs/slide_imgs/banner-3.png) no-repeat center;" src="./imgs/slide_imgs/banner-3.png">
                 </a>
             </li>
             <li>
                 <a title="" href="#">
-                    <img width="1920" height="482" alt="" style="background: url(./imgs/slide_imgs/banner-4.png) no-repeat center;" src="./imgs/slide_imgs/banner-4.png">
+                    <img class="banner-img" alt="" style="background: url(./imgs/slide_imgs/banner-4.png) no-repeat center;" src="./imgs/slide_imgs/banner-4.png">
                 </a>
             </li>
             <li>
                 <a title="" href="#">
-                    <img width="1920" height="482" alt="" style="background: url(./imgs/slide_imgs/banner-5.png) no-repeat center;" src="./imgs/slide_imgs/banner-5.png">
+                    <img class="banner-img" alt="" style="background: url(./imgs/slide_imgs/banner-5.png) no-repeat center;" src="./imgs/slide_imgs/banner-5.png">
                 </a>
             </li>
         </ul>
@@ -60,7 +60,7 @@
 			<div class="main_wrap clear">
 				<div class="section fl">
 					<span>用研</span>
-					<img src="imgs/news_img1.png" alt="">
+					<a href=""><img src="imgs/news_img1.png" alt=""></a>
 				</div>
 				<div class="description fr">
 					<div class="des-center">
@@ -77,7 +77,7 @@
 			<div class="main_wrap clear">
 				<div class="section fl">
 				<span>用研</span>
-					<img src="imgs/news_img2.png" alt="">
+					<a href=""><img src="imgs/news_img2.png" alt=""></a>
 				</div>
 				<div class="description fr">
 					<div class="des-center">
@@ -94,7 +94,7 @@
 			<div class="main_wrap clear">
 				<div class="section fl">
 				<span>用研</span>
-					<img src="imgs/news_img3.png" alt="">
+					<a href=""><img src="imgs/news_img3.png" alt=""></a>
 				</div>
 				<div class="description fr">
 					<div class="des-center">
@@ -111,7 +111,7 @@
 			<div class="main_wrap clear">
 				<div class="section fl">
 				<span>用研</span>
-					<img src="imgs/news_img4.png" alt="">
+					<a href=""><img src="imgs/news_img4.png" alt=""></a>
 				</div>
 				<div class="description fr">
 					<div class="des-center">
@@ -128,7 +128,7 @@
 			<div class="main_wrap clear">
 				<div class="section fl">
 				<span>用研</span>
-					<img src="imgs/news_img5.png" alt="">
+					<a href=""><img src="imgs/news_img5.png" alt=""></a>
 				</div>
 				<div class="description fr">
 					<div class="des-center">

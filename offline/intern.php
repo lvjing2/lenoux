@@ -17,17 +17,17 @@
         <ul class="slides">
             <li>
             <a href="./intern-1.php">
-                <img width="1920" height="482" alt="" style="background: url(../imgs/offline/intern/intern-1-small.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                <img class="banner-img" alt="" style="background: url(../imgs/offline/intern/intern-1-small.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
                </a>
             </li>
             <li>
             <a href="./intern-2.php">
-                <img width="1920" height="482" alt="" style="background: url(../imgs/offline/intern/intern-2.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                <img class="banner-img" alt="" style="background: url(../imgs/offline/intern/intern-2.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
                 </a>
             </li>
             <li>
             <a href="./intern-3.php">
-                <img width="1920" height="482" alt="" style="background: url(../imgs/offline/intern/intern-3.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                <img class="banner-img" alt="" style="background: url(../imgs/offline/intern/intern-3.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
                 </a>
             </li>
         </ul>
@@ -51,7 +51,7 @@
 			<div class="main_wrap clear">
 				<div class="section fl">
 					<span>用研</span>
-					<img src="../imgs/offline/intern/intern-1-thumbnail.png" alt="">
+					<a href="./intern-1.php"><img src="../imgs/offline/intern/intern-1-thumbnail.png" alt=""></a>
 				</div>
 				<div class="description fr">
 					<div class="des-center">
@@ -71,7 +71,7 @@ Shanghai Leading Art&Desgin University
 			<div class="main_wrap clear">
 				<div class="section fl">
 				<span>用研</span>
-					<img src="../imgs/offline/intern/intern-2-thumbnail.png" alt="">
+					<a href="./intern-2.php"><img src="../imgs/offline/intern/intern-2-thumbnail.png" alt=""></a>
 				</div>
 				<div class="description fr">
 					<div class="des-center">
@@ -89,7 +89,7 @@ Shanghai Leading Art&Desgin University
 			<div class="main_wrap clear">
 				<div class="section fl">
 				<span>用研</span>
-					<img src="../imgs/offline/intern/intern-3-thumbnail.png" alt="">
+					<a href="./intern-3.php"><img src="../imgs/offline/intern/intern-3-thumbnail.png" alt=""></a>
 				</div>
 				<div class="description fr">
 					<div class="des-center">
@@ -108,7 +108,7 @@ Shanghai Leading Art&Desgin University
 			<div class="main_wrap clear">
 				<div class="section fl">
 				<span>用研</span>
-					<img src="../imgs/news_img4.png" alt="">
+					<a href=""><img src="../imgs/news_img4.png" alt=""></a>
 				</div>
 				<div class="description fr">
 					<div class="des-center">

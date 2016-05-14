@@ -15,7 +15,7 @@
 	<div id="banner_tabs" class="flexslider">
         <ul class="slides">
             <li>
-                <img width="1920" height="482" alt="" style="background: url(../imgs/research/test-1.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                <img class="banner-img" alt="" style="background: url(../imgs/research/test-1.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
                 <div class="wrapper-text-div">
                 	<div class="text-on-img">
                     <p>
@@ -25,7 +25,7 @@
                 </div>
             </li>
             <li>
-                <img width="1920" height="482" alt="" style="background: url(../imgs/research/test-2.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                <img class="banner-img" alt="" style="background: url(../imgs/research/test-2.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
                 <div class="wrapper-text-div">
                 	<div class="text-on-img">
                     <p>
@@ -35,7 +35,7 @@
                 </div>
             </li>
             <li>
-                <img width="1920" height="482" alt="" style="background: url(../imgs/research/test-3.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                <img class="banner-img" alt="" style="background: url(../imgs/research/test-3.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
                 <div class="wrapper-text-div backgroud">
                 	<div class="text-on-img">
                     <p>
