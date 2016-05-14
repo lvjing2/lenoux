@@ -25,9 +25,9 @@
 
 	<div class="footer">
 		<div class="footer-wrap">
-			<h2 class="lux-in" style="font-family: mvboli">LUX.EXCELLENCE IN EXPERIENCE</h2>
+			<div class="lux"><h2 class="lux-in">LUX.EXCELLENCE IN EXPERIENCE</h2></div>
 			<div class="two-dimension-code">
-			<span><img src="<?php echo WEB_ROOT_DIR;?>imgs/icons/twodimecode.gif" alt=""></span>
+			<img style="vertical-align: middle;" src="<?php echo WEB_ROOT_DIR;?>imgs/icons/twodimecode.gif" alt="">
 			</div>
 			<div class="contact">
 				<p class="addr">地址：上海市浦东新区松涛路696号  联想大厦<br/>*******************</p>
