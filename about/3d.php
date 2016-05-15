@@ -202,7 +202,7 @@
 		</div>
 	</div>
     
-    
+<div id="sticky-anchor-bottom"></div>
 <?php include $footer_file;?>
 
     
@@ -210,4 +210,5 @@
 	<!-- <script src="../js/sticky.js"></script> -->
 	<script src="../js/jquery-1.10.2.min.js"></script>
 	<script src="../js/main.js"></script>
+	<!-- <script src="../js/sticky.js"></script> -->
 </html>
