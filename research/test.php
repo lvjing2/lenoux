@@ -199,6 +199,6 @@
     
 </body>
 	<!-- <script src="../js/sticky.js"></script> -->
-	<script src="../js/jquery-1.10.2.min.js"></script>
+	<script src="../js/jquery-1.12.3.min.js"></script>
 	<script src="../js/main.js"></script>
 </html>

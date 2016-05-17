@@ -270,7 +270,7 @@ VR也不像手机一样是单个的设备，想要拥有完美并具有沉浸感
 	
 <?php include $footer_file;?>
 
-	<script src="../js/jquery-1.10.2.min.js"></script>
+	<script src="../js/jquery-1.12.3.min.js"></script>
 	<script src="../js/main.js"></script>
     <!-- <script src="../js/sticky.js"></script> -->
 </body>
