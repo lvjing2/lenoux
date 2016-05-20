@@ -1,9 +1,11 @@
 <!DOCTYPE html>
 <html>
-	<?php 
+	
+<?php 
 	define(SUBROOT, '../');
 	include (SUBROOT . 'define.php');
-	?>
+?>
+
 <head>
 	<meta name="name" content="content" charset="utf-8">
 	<title>Lenovo User Experience Labs</title>
@@ -17,7 +19,7 @@
 	<div id="banner_tabs" class="flexslider">
         <ul class="slides">
             <li>
-                    <img class="banner-img" alt="" style="background: url(<?php echo SUBROOT;?>./imgs/offline/intern/intern-2.png) no-repeat center;" src="<?php echo SUBROOT;?>./imgs/slide_imgs/alpha.png">
+                    <img class="banner-img" alt="" style="background: url(<?php echo SUBROOT;?>./imgs/offline/intern/intern-4.png) no-repeat center;" src="<?php echo SUBROOT;?>./imgs/slide_imgs/alpha.png">
             </li>
         </ul>
         <!--
@@ -35,24 +37,33 @@
 		<div class="main fl">
 				
             <div class="article-title">
-           		<p>梁怡雯</p>
+           		<p>姚远洋</p>
             </div>
 				<div id="jd1-article" class="article">
 					<div class="des-center des-jd">
-                        <p>院校<br>
-                        华东师范大学 心理与认知科学学院</p>
+					  <p>院校<br>
+                        中国美术学院</p>
+                    	<p>Lenovo实习时间<br>
+2014年4月—6月<br>
+参与yoga3评测
+                    	</p>
                         <p>重要经历<br>
-                          冷泉港(亚洲)-上海纽约大学计算神经科学暑期夏令营营员<br>
-                          法国领事馆音乐节志愿者 <br>
-                      华东师范大学“心理慰藉”志愿者</p>
-                        <p>获奖经历<br>
-                          上海大学及华东师范大学优秀学生 <br>
-                          华东师范大学“大夏杯”学术科技作品竞赛一等奖团队负责人</p>
+                          2014年11月参加美国芝加哥IHA创新设计大赛。<br>
+						   2014年9月—2016年4月参与编写《创意设计共性关键技术集成研发（国家科技支撑计划）》<br>
+						   2015年6月—2015年7月赴香港参加中国美术学院与香港科技大学合作的design thinking联合课程，并担任助教。<br>
+						   2015年9月—2016年3月赴意大利米兰理工大学交流学习，攻读design&engineer专业。<br>
+						   2015年9月—2016年5月参与举办首届DIA中国设计智造大奖。</p>
                         <p>个人爱好<br>
-                          慢跑 写影评及段子</p>
+                          旅游、萌宠、美食、阅读</p>
                         <p>社交媒体<br>
-                          豆瓣：guyue_liang<br>
+                          微博：@姚歪歪是只有卧蚕的猫<br>
+   							微信：15068812188
                         </p>  
+                        <div class="image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-4.1.png"></div>
+                        <div class="image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-4.2.png"></div>
+                        <div class="image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-4.3.png"></div>
+                        <div class="image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-4.4.png"></div>
+                        <div class="image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-4.5.png"></div>
                   </div>
             </div>
 		</div>
@@ -100,10 +111,7 @@
     	<div id="sticky-anchor-bottom"></div>
     </div>
     
-    
-	
-
-<?php include $footer_file;?>
+   <?php include $footer_file;?>
 
 	<script src="<?php echo SUBROOT;?>./js/jquery-1.12.3.min.js"></script>
 	<script src="<?php echo SUBROOT;?>./js/main.js"></script>

@@ -24,7 +24,7 @@
 		                <li><a href="<?php echo WEB_ROOT_DIR?>./about/3d.php">3D参观</a></li>
 		                <li><a href="<?php echo WEB_ROOT_DIR?>./about/mem-intro.php">成员介绍</a></li>
 		                <li><a href="<?php echo WEB_ROOT_DIR?>./about/famous-person.php">著名人物</a></li>
-		                <li><a href="#">国际化L.U.X</a></li>
+		                <li><a href="#">国际U.X</a></li>
 		                <li><a href="#">联系我们</a></li>
 		            </ul>
 		        </li>
@@ -49,7 +49,7 @@
 		                <li><a href="#">干货</a></li>
 		                <li><a href="#">线上课堂</a></li>
 		                <li><a href="#">博士问答</a></li>
-                        <li><a href="<?php echo WEB_ROOT_DIR?>./academic/vr.php">VR</a></li>
+                        <li><a href="<?php echo WEB_ROOT_DIR?>./academic/vr/vr.php">VR</a></li>
 		            </ul>
 		        </li>
 		    </ul>

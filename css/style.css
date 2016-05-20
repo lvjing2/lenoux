@@ -530,6 +530,12 @@ h2{font-size: 20px;color: #E22319; }
 	text-align: center;
 }
 
+.article .intern-figure{
+	width: 300px;
+	height: auto;
+	object-fit: cover;
+}
+
 .article a{
 	color: #0287d7;
 	font-style:italic;	
@@ -814,7 +820,7 @@ h2{font-size: 20px;color: #E22319; }
 
 
 .lux{
-    width: 45%;
+    width: 44%;
     height: 100px;
     margin: 0 auto;
     display: table-cell;
@@ -828,7 +834,7 @@ h2{font-size: 20px;color: #E22319; }
     font-family: mvboli;
 }
 .two-dimension-code{
-    width: 17%;
+    width: 18%;
     height: 100px;
     margin: 0 auto;
     display: table-cell;

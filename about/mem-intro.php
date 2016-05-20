@@ -1,13 +1,15 @@
 ﻿<!DOCTYPE html>
 <html>
 
-<?php include '../define.php';?>
-
+<?php 
+	define(SUBROOT, '../');
+	include (SUBROOT . 'define.php');
+?>
 <head>
 	<meta name="name" content="content" charset="utf-8">
 	<title>Lenovo User Experience Labs</title>
-	<link rel="stylesheet" type="text/css" href="../css/style.css">
-	<link rel="stylesheet" type="text/css" href="../css/introduction-style.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo SUBROOT;?>./css/style.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo SUBROOT;?>./css/introduction-style.css">
 
 </head>
 <body>
@@ -16,61 +18,61 @@
 
 	<!-- start introduction-->
   <div class="mem-intro">
-        <div class="intro-img"><img src="../imgs/introduction_imgs/memberbg.png" alt=""></div>
+        <div class="intro-img"><img src="<?php echo SUBROOT;?>./imgs/introduction_imgs/memberbg.png" alt=""></div>
         <div class="mem-container">
-            <img class="intro-icon" src="../imgs/introduction_imgs/mem.png" alt="">
+            <img class="intro-icon" src="<?php echo SUBROOT;?>./imgs/introduction_imgs/mem.png" alt="">
             <ul id="gallery">
               <li>
-                <a href="#" class="smallimage" rel="../imgs/introduction_imgs/img1-big.png">
-                  <img src="../imgs/introduction_imgs/img1-small.png" alt="" />
+                <a href="#" class="smallimage" rel="<?php echo SUBROOT;?>./imgs/introduction_imgs/img1-big.png">
+                  <img src="<?php echo SUBROOT;?>./imgs/introduction_imgs/img1-small.png" alt="" />
                 </a>
                 <p class="name">陈华</p>
                 <p class="job">联想IPG用户体验中心</p>
                 <p class="job">主管研究员 高级工程师</p>
               </li>
               <li>
-                <a href="#" class="smallimage" rel="../imgs/introduction_imgs/img2-big.png">
-                  <img src="../imgs/introduction_imgs/img2-small.png" alt="" />
+                <a href="#" class="smallimage" rel="<?php echo SUBROOT;?>./imgs/introduction_imgs/img2-big.png">
+                  <img src="<?php echo SUBROOT;?>./imgs/introduction_imgs/img2-small.png" alt="" />
                 </a>
                 <p class="name">喻奕</p>
                 <p class="job">联想IPG用户体验中心</p>
                 <p class="job">高级研究员</p>
               </li>
               <li>
-                <a href="#" class="smallimage" rel="../imgs/introduction_imgs/img3-big.png"><img src="../imgs/introduction_imgs/img3-small.png" alt="" />
+                <a href="#" class="smallimage" rel="<?php echo SUBROOT;?>./imgs/introduction_imgs/img3-big.png"><img src="<?php echo SUBROOT;?>./imgs/introduction_imgs/img3-small.png" alt="" />
                 </a>
                 <p class="name">王倩</p><p class="job">联想IPG用户体验中心</p><p class="job">高级研究员</p>
               </li>
               <li>
-                <a href="#" class="smallimage" rel="../imgs/introduction_imgs/img4-big.png"><img src="../imgs/introduction_imgs/img4-small.png" alt="" />
+                <a href="#" class="smallimage" rel="<?php echo SUBROOT;?>./imgs/introduction_imgs/img4-big.png"><img src="<?php echo SUBROOT;?>./imgs/introduction_imgs/img4-small.png" alt="" />
                 </a>
                 <p class="name">乐亦扬</p>
                 <p class="job">联想IPG用户体验中心</p>
                 <p class="job">高级研究员</p>
               </li>
               <li>
-                <a href="#" class="smallimage" rel="../imgs/introduction_imgs/img5-big.png"><img src="../imgs/introduction_imgs/img5-small.png" alt="" />
+                <a href="#" class="smallimage" rel="<?php echo SUBROOT;?>./imgs/introduction_imgs/img5-big.png"><img src="<?php echo SUBROOT;?>./imgs/introduction_imgs/img5-small.png" alt="" />
                 </a>
                 <p class="name">梁怡雯</p>
                 <p class="job">联想IPG用户体验中心</p>
                 <p class="job">研究员</p>
               </li>
               <li>
-                <a href="#" class="smallimage" rel="../imgs/introduction_imgs/img6-big.png"><img src="../imgs/introduction_imgs/img6-small.png" alt="" />
+                <a href="#" class="smallimage" rel="<?php echo SUBROOT;?>./imgs/introduction_imgs/img6-big.png"><img src="<?php echo SUBROOT;?>./imgs/introduction_imgs/img6-small.png" alt="" />
                 </a>
                 <p class="name">张汉雁</p>
                 <p class="job">联想IPG用户体验中心</p>
                 <p class="job">助理研究员</p>
               </li>
               <li>
-                <a href="#" class="smallimage" rel="../imgs/introduction_imgs/img7-big.png"><img src="../imgs/introduction_imgs/img7-small.png" alt="" />
+                <a href="#" class="smallimage" rel="<?php echo SUBROOT;?>./imgs/introduction_imgs/img7-big.png"><img src="<?php echo SUBROOT;?>./imgs/introduction_imgs/img7-small.png" alt="" />
                 </a>
                 <p class="name">王寅樱</p>
                 <p class="job">联想IPG用户体验中心</p>
                 <p class="job">助理研究员</p>
               </li>
               <li>
-                <a href="#" class="smallimage" rel="../imgs/introduction_imgs/img8-big.png"><img src="../imgs/introduction_imgs/img8-small.png" alt="" />
+                <a href="#" class="smallimage" rel="<?php echo SUBROOT;?>./imgs/introduction_imgs/img8-big.png"><img src="<?php echo SUBROOT;?>./imgs/introduction_imgs/img8-small.png" alt="" />
                 </a>
                 <p class="name">吴宇</p>
                 <p class="job">联想IPG用户体验中心</p>
@@ -90,7 +92,7 @@
 			<div class="main_wrap clear">
 				<div class="section fl">
 					<span>用研</span>
-					<img src="../imgs/news_img1.png" alt="">
+					<img src="<?php echo SUBROOT;?>./imgs/news_img1.png" alt="">
 				</div>
 				<div class="description fr">
 					<div class="des-center">
@@ -107,7 +109,7 @@
 			<div class="main_wrap clear">
 				<div class="section fl">
 				<span>用研</span>
-					<img src="../imgs/news_img2.png" alt="">
+					<img src="<?php echo SUBROOT;?>./imgs/news_img2.png" alt="">
 				</div>
 				<div class="description fr">
 					<div class="des-center">
@@ -124,7 +126,7 @@
 			<div class="main_wrap clear">
 				<div class="section fl">
 				<span>用研</span>
-					<img src="../imgs/news_img3.png" alt="">
+					<img src="<?php echo SUBROOT;?>./imgs/news_img3.png" alt="">
 				</div>
 				<div class="description fr">
 					<div class="des-center">
@@ -141,7 +143,7 @@
 			<div class="main_wrap clear">
 				<div class="section fl">
 				<span>用研</span>
-					<img src="../imgs/news_img4.png" alt="">
+					<img src="<?php echo SUBROOT;?>./imgs/news_img4.png" alt="">
 				</div>
 				<div class="description fr">
 					<div class="des-center">
@@ -158,7 +160,7 @@
 			<div class="main_wrap clear">
 				<div class="section fl">
 				<span>用研</span>
-					<img src="../imgs/news_img5.png" alt="">
+					<img src="<?php echo SUBROOT;?>./imgs/news_img5.png" alt="">
 				</div>
 				<div class="description fr">
 					<div class="des-center">
@@ -176,7 +178,7 @@
             	<div class="read-more">
                 <a href="javascript: void(0)">
                 <span>浏览更多</span>
-                <img src="../imgs/icons/more.png">
+                <img src="<?php echo SUBROOT;?>./imgs/icons/more.png">
                 </a>
                 </div>
             </div>
@@ -185,24 +187,24 @@
 		<div class="side fr">
 			<h2>HotArticle 热门文章</h2>
 			<div class="side-section">
-				<img src="../imgs/side_imgs/side_img1.png" alt="">
+				<img src="<?php echo SUBROOT;?>./imgs/side_imgs/side_img1.png" alt="">
 				<span>很久很久以前的颜色，被放进去了被放进去了</span>
 			</div>
 			<div class="side-section">
-				<img src="../imgs/side_imgs/side_img2.png" alt="">
+				<img src="<?php echo SUBROOT;?>./imgs/side_imgs/side_img2.png" alt="">
 				<span>工匠精神需要一个信仰――手工手工</span>
 			</div>
 			<div class="side-section">
-				<img src="../imgs/side_imgs/side_img3.png" alt="">
+				<img src="<?php echo SUBROOT;?>./imgs/side_imgs/side_img3.png" alt="">
 				<span>土豪不土――私人美术馆成富豪富豪</span>
 			</div>
 			<div class="side-section">
-				<img src="../imgs/side_imgs/side_img4.png" alt="">
+				<img src="<?php echo SUBROOT;?>./imgs/side_imgs/side_img4.png" alt="">
 				<span>用户体验工作坊――与用研相约相约</span>
 			</div>
 			<div class="about-us">
 				<div class="inner">关于我们</div>
-				<img class="logo" src="../imgs/side_imgs/side_logo.png" alt="">
+				<img class="logo" src="<?php echo SUBROOT;?>./imgs/side_imgs/side_logo.png" alt="">
 				<p class="logo-text">LENOVO UX LAB</p>
 				<p class="we-chat-text">
 					<span class="red-text">| </span>
@@ -210,7 +212,7 @@
 				</p>
 				
 				<div class="contact-us clear">
-					<img src="../imgs/side_imgs/we_chate2.png" alt="">
+					<img src="<?php echo SUBROOT;?>./imgs/side_imgs/we_chate2.png" alt="">
 					<div class="des-text">
 						<span><strong>关注微信公众号：<br/>"IdeaPad用户研究中心"<br/></strong></span>
 						<span class="text-small">和志同道合的小伙伴们一同分享专业的案例、实验以及又去的用研经历和咨询。</span>
@@ -225,8 +227,8 @@
 	
 	<?php include $footer_file?>
 	
-	<script src="../js/jquery-1.12.3.min.js"></script>
-	<script src="../js/introduction.js"></script>
-	<script src="../js/main.js"></script>
+	<script src="<?php echo SUBROOT;?>./js/jquery-1.12.3.min.js"></script>
+	<script src="<?php echo SUBROOT;?>./js/introduction.js"></script>
+	<script src="<?php echo SUBROOT;?>./js/main.js"></script>
 </body>
 </html>

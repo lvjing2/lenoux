@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html>
-<?php include '../define.php';?>
+<?php 
+	define(SUBROOT, '../../');
+	include (SUBROOT . 'define.php');
+?>
 <head>
 	<meta name="name" content="content" charset="utf-8">
 	<title>Lenovo User Experience Labs</title>
-	<link rel="stylesheet" type="text/css" href="../css/style.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo SUBROOT;?>./css/style.css">
 
 </head>
 <body>
@@ -15,7 +18,7 @@
         <ul class="slides">
             <li>
                 <a title="" href="#">
-                    <img class="banner-img" alt="" style="background: url(../imgs/academic/vr/vr-1/../vr-1.png) no-repeat center;" src="../imgs/academic/vr/vr-1/../vr-1.png">
+                    <img class="banner-img" alt="" style="background: url(<?php echo SUBROOT;?>./imgs/academic/vr/vr-3.png) no-repeat center;" src="<?php echo SUBROOT;?>./imgs/academic/vr/vr-3.png">
                 </a>
             </li>
         </ul>
@@ -62,7 +65,7 @@ PAST
 原型机是著名计算机科学家、图灵奖获得者伊万·萨瑟兰(Ivan Sutherland)发明的头戴式显示器。
 1968年，作为哈弗大学电气工程副教授的萨瑟兰发明了↓
 </p>
-<div class="image"><img src="../imgs/academic/vr/vr-1/vr-1.png"></div>
+<div class="image"><img src="<?php echo SUBROOT;?>./imgs/academic/vr/vr-1/vr-1.png"></div>
 <p>
 这样的一台头戴式显示设备，并给他取了一个狂拽炫酷嗲炸天的名字——
 The Sword of Damocles（达摩克利斯之剑）
@@ -104,23 +107,23 @@ VR虚拟现实装置到HTC宣布Vive，从索尼展示PS4虚拟现实头戴设�
 在圈内掀起了VR的高潮。转眼国内的VR领域，初创公司如雨后春笋，爆发在即，所以，2016年也
 被称为虚拟元年~
 </p>
-<div class="image"><img src="../imgs/academic/vr/vr-1/google.png"></div>
+<div class="image"><img src="<?php echo SUBROOT;?>./imgs/academic/vr/vr-1/google.png"></div>
 <p class="image-title">
 销量最大的Google盒子（10美金）
 </p>
-<div class="image"><img src="../imgs/academic/vr/vr-1/gear vr.png"></div>
+<div class="image"><img src="<?php echo SUBROOT;?>./imgs/academic/vr/vr-1/gear vr.png"></div>
 <p class="image-title">
 评价最好的三星Gear VR
 </p>
-<div class="image"><img src="../imgs/academic/vr/vr-1/htc vive.png"></div>
+<div class="image"><img src="<?php echo SUBROOT;?>./imgs/academic/vr/vr-1/htc vive.png"></div>
 <p class="image-title">
 HTC VIVE
 </p>
-<div class="image"><img src="../imgs/academic/vr/vr-1/Project-Morpheus.png"></div>
+<div class="image"><img src="<?php echo SUBROOT;?>./imgs/academic/vr/vr-1/Project-Morpheus.png"></div>
 <p class="image-title">
 索尼虚拟现实头戴设备 Project Morpheus
 </p>
-<div class="image"><img src="../imgs/academic/vr/vr-1/oculus-rift.png"></div>
+<div class="image"><img src="<?php echo SUBROOT;?>./imgs/academic/vr/vr-1/oculus-rift.png"></div>
 <p class="image-title">
 oculus rift
 </p>
@@ -185,7 +188,7 @@ VR也不像手机一样是单个的设备，想要拥有完美并具有沉浸感
 我们为之期待，为之着迷。
 </p>
 
-<div class="image"><img src="../imgs/academic/vr/vr-1/vrs.png"></div>
+<div class="image"><img src="<?php echo SUBROOT;?>./imgs/academic/vr/vr-1/vrs.png"></div>
 
 <p>文章来源：<a href="#">IdeaPad用户研究中心微信公众平台</a></p> 
                 </div>
@@ -196,24 +199,24 @@ VR也不像手机一样是单个的设备，想要拥有完美并具有沉浸感
 		<div id="sticky" class="side fr">
 			<h2>HotArticle 热门文章</h2>
 			<div class="side-section">
-				<img src="../imgs/side_imgs/side_img1.png" alt="">
+				<img src="<?php echo SUBROOT;?>./imgs/side_imgs/side_img1.png" alt="">
 				<span>很久很久以前的颜色，被放进去了被放进去了</span>
 			</div>
 			<div class="side-section">
-				<img src="../imgs/side_imgs/side_img2.png" alt="">
+				<img src="<?php echo SUBROOT;?>./imgs/side_imgs/side_img2.png" alt="">
 				<span>工匠精神需要一个信仰——手工手工</span>
 			</div>
 			<div class="side-section">
-				<img src="../imgs/side_imgs/side_img3.png" alt="">
+				<img src="<?php echo SUBROOT;?>./imgs/side_imgs/side_img3.png" alt="">
 				<span>土豪不土——私人美术馆成富豪富豪</span>
 			</div>
 			<div class="side-section">
-				<img src="../imgs/side_imgs/side_img4.png" alt="">
+				<img src="<?php echo SUBROOT;?>./imgs/side_imgs/side_img4.png" alt="">
 				<span>用户体验工作坊——与用研相约相约</span>
 			</div>
 			<div class="about-us">
 				<div class="inner">关于我们</div>
-				<img class="logo" src="../imgs/side_imgs/side_logo.png" alt="">
+				<img class="logo" src="<?php echo SUBROOT;?>./imgs/side_imgs/side_logo.png" alt="">
 				<p class="logo-text">LENOVO UX LAB</p>
 				<p class="we-chat-text">
 					<span class="red-text">| </span>
@@ -221,7 +224,7 @@ VR也不像手机一样是单个的设备，想要拥有完美并具有沉浸感
 				</p>
 				
 				<div class="contact-us clear">
-					<img src="../imgs/side_imgs/we_chate2.png" alt="">
+					<img src="<?php echo SUBROOT;?>./imgs/side_imgs/we_chate2.png" alt="">
 					<div class="des-text">
 						<span><strong>关注微信公众号：<br/>"IdeaPad用户研究中心"<br/></strong></span>
 						<span class="text-small">和志同道合的小伙伴们一同分享专业的案例、实验以及又去的用研经历和咨询。</span>
@@ -240,7 +243,7 @@ VR也不像手机一样是单个的设备，想要拥有完美并具有沉浸感
             <div class="also-like-wrapper">
                 <div>
                 	<a href="#">
-                        <img src="../imgs/academic/vr/may-also-like/like-1.png" >
+                        <img src="<?php echo SUBROOT;?>./imgs/academic/vr/may-also-like/like-1.png" >
                         <div>
                             <p>移动页面用户行为报告</p>
                             <p class="time">2016-05-22</p>
@@ -249,14 +252,14 @@ VR也不像手机一样是单个的设备，想要拥有完美并具有沉浸感
                 </div>
                 <div>
                 	<a href="#">
-                        <img src="../imgs/academic/vr/may-also-like/like-2.png" >
+                        <img src="<?php echo SUBROOT;?>./imgs/academic/vr/may-also-like/like-2.png" >
                         <p>眼动技术：让用户的小秘密无处遁形</p>
                         <p class="time">2016-03-07</p>
                     </a>
                 </div>
                 <div>
                 	<a href="#">
-                        <img src="../imgs/academic/vr/may-also-like/like-3.png" >
+                        <img src="<?php echo SUBROOT;?>./imgs/academic/vr/may-also-like/like-3.png" >
                         <p>【分析】如何通过用户行为路径分析提高转化率？</p>
                         <p class="time">2016-04-13</p>
                     </a>
@@ -270,8 +273,8 @@ VR也不像手机一样是单个的设备，想要拥有完美并具有沉浸感
 	
 <?php include $footer_file;?>
 
-	<script src="../js/jquery-1.12.3.min.js"></script>
-	<script src="../js/main.js"></script>
-    <!-- <script src="../js/sticky.js"></script> -->
+	<script src="<?php echo SUBROOT;?>./js/jquery-1.12.3.min.js"></script>
+	<script src="<?php echo SUBROOT;?>./js/main.js"></script>
+    <!-- <script src="<?php echo SUBROOT;?>./js/sticky.js"></script> -->
 </body>
 </html>

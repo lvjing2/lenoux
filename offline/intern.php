@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html>
-	<?php include '../define.php';?>
+	<?php 
+	define(SUBROOT, '../');
+	include (SUBROOT . 'define.php');
+	?>
 <head>
 	<meta name="name" content="content" charset="utf-8">
 	<title>Lenovo User Experience Labs</title>
-	<link rel="stylesheet" type="text/css" href="../css/style.css">
+	<link rel="stylesheet" type="text/css" href="<?php echo SUBROOT;?>./css/style.css">
 
 </head>
 <body>
@@ -17,17 +20,22 @@
         <ul class="slides">
             <li>
             <a href="./intern-1.php">
-                <img class="banner-img" alt="" style="background: url(../imgs/offline/intern/intern-1-small.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                <img class="banner-img" alt="" style="background: url(<?php echo SUBROOT;?>./imgs/offline/intern/intern-1-small.png) no-repeat center;" src="<?php echo SUBROOT;?>./imgs/slide_imgs/alpha.png">
                </a>
             </li>
             <li>
             <a href="./intern-2.php">
-                <img class="banner-img" alt="" style="background: url(../imgs/offline/intern/intern-2.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                <img class="banner-img" alt="" style="background: url(<?php echo SUBROOT;?>./imgs/offline/intern/intern-2.png) no-repeat center;" src="<?php echo SUBROOT;?>./imgs/slide_imgs/alpha.png">
                 </a>
             </li>
             <li>
             <a href="./intern-3.php">
-                <img class="banner-img" alt="" style="background: url(../imgs/offline/intern/intern-3.png) no-repeat center;" src="../imgs/slide_imgs/alpha.png">
+                <img class="banner-img" alt="" style="background: url(<?php echo SUBROOT;?>./imgs/offline/intern/intern-3.png) no-repeat center;" src="<?php echo SUBROOT;?>./imgs/slide_imgs/alpha.png">
+                </a>
+            </li>
+            <li>
+            <a href="./intern-4.php">
+                <img class="banner-img" alt="" style="background: url(<?php echo SUBROOT;?>./imgs/offline/intern/intern-4.png) no-repeat center;" src="<?php echo SUBROOT;?>./imgs/slide_imgs/alpha.png">
                 </a>
             </li>
         </ul>
@@ -51,7 +59,7 @@
 			<div class="main_wrap clear">
 				<div class="section fl">
 					<span>用研</span>
-					<a href="./intern-1.php"><img src="../imgs/offline/intern/intern-1-thumbnail.png" alt=""></a>
+					<a href="./intern-1.php"><img src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-1-thumbnail.png" alt=""></a>
 				</div>
 				<div class="description fr">
 					<div class="des-center">
@@ -71,7 +79,7 @@ Shanghai Leading Art&Desgin University
 			<div class="main_wrap clear">
 				<div class="section fl">
 				<span>用研</span>
-					<a href="./intern-2.php"><img src="../imgs/offline/intern/intern-2-thumbnail.png" alt=""></a>
+					<a href="./intern-2.php"><img src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-2-thumbnail.png" alt=""></a>
 				</div>
 				<div class="description fr">
 					<div class="des-center">
@@ -89,7 +97,7 @@ Shanghai Leading Art&Desgin University
 			<div class="main_wrap clear">
 				<div class="section fl">
 				<span>用研</span>
-					<a href="./intern-3.php"><img src="../imgs/offline/intern/intern-3-thumbnail.png" alt=""></a>
+					<a href="./intern-3.php"><img src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-3-thumbnail.png" alt=""></a>
 				</div>
 				<div class="description fr">
 					<div class="des-center">
@@ -108,16 +116,18 @@ Shanghai Leading Art&Desgin University
 			<div class="main_wrap clear">
 				<div class="section fl">
 				<span>用研</span>
-					<a href=""><img src="../imgs/news_img4.png" alt=""></a>
+					<a href="./intern-4.php"><img src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-4-thumbnail.png" alt=""></a>
 				</div>
 				<div class="description fr">
 					<div class="des-center">
-						<h3><a href="">联想用户研究实验室Lenovo User Experience Lab</a></h3>
+						<h3><a href="./intern-4.php">姚远洋——硕士 中国美术学院 </a></h3>
 						<p>
-							<span class="des-name">Ranee</span> |
-							<span class="des-time">3天前</span>
+							<span class="des-name">Hersey </span> |
+							<span class="des-time">2天前</span>
 						</p>
-						<p>基于实验心理学、工程心理学及人因神经学等学科知识，挖掘用户态度及用户行为的深层次冬季，对产品的设计与研发提供客观、量比且具有可操作性的支持。	
+						<p>参加美国芝加哥IHA创新设计大赛。</br>
+参与编写《创意设计共性关键技术集成研发（国家科技支撑计划）》</br>
+参加中国美术学院与香港科技大学合作的design thinking联合课程，并担任助教。
 						</p>
 					</div>
 				</div>
@@ -126,7 +136,7 @@ Shanghai Leading Art&Desgin University
             	<div class="read-more">
                 <a href="javascript: void(0)">
                 <span>浏览更多</span>
-                <img src="../imgs/icons/more.png">
+                <img src="<?php echo SUBROOT;?>./imgs/icons/more.png">
                 </a>
                 </div>
             </div>
@@ -136,24 +146,24 @@ Shanghai Leading Art&Desgin University
 		<div id="sticky" class="side fr">
 			<h2>HotArticle 热门文章</h2>
 			<div class="side-section">
-				<img src="../imgs/side_imgs/side_img1.png" alt="">
+				<img src="<?php echo SUBROOT;?>./imgs/side_imgs/side_img1.png" alt="">
 				<span>很久很久以前的颜色，被放进去了被放进去了</span>
 			</div>
 			<div class="side-section">
-				<img src="../imgs/side_imgs/side_img2.png" alt="">
+				<img src="<?php echo SUBROOT;?>./imgs/side_imgs/side_img2.png" alt="">
 				<span>工匠精神需要一个信仰——手工手工</span>
 			</div>
 			<div class="side-section">
-				<img src="../imgs/side_imgs/side_img3.png" alt="">
+				<img src="<?php echo SUBROOT;?>./imgs/side_imgs/side_img3.png" alt="">
 				<span>土豪不土——私人美术馆成富豪富豪</span>
 			</div>
 			<div class="side-section">
-				<img src="../imgs/side_imgs/side_img4.png" alt="">
+				<img src="<?php echo SUBROOT;?>./imgs/side_imgs/side_img4.png" alt="">
 				<span>用户体验工作坊——与用研相约相约</span>
 			</div>
 			<div class="about-us">
 				<div class="inner">关于我们</div>
-				<img class="logo" src="../imgs/side_imgs/side_logo.png" alt="">
+				<img class="logo" src="<?php echo SUBROOT;?>./imgs/side_imgs/side_logo.png" alt="">
 				<p class="logo-text">LENOVO UX LAB</p>
 				<p class="we-chat-text">
 					<span class="red-text">| </span>
@@ -161,7 +171,7 @@ Shanghai Leading Art&Desgin University
 				</p>
 				
 				<div class="contact-us clear">
-					<img src="../imgs/side_imgs/we_chate2.png" alt="">
+					<img src="<?php echo SUBROOT;?>./imgs/side_imgs/we_chate2.png" alt="">
 					<div class="des-text">
 						<span><strong>关注微信公众号：<br/>"IdeaPad用户研究中心"<br/></strong></span>
 						<span class="text-small">和志同道合的小伙伴们一同分享专业的案例、实验以及又去的用研经历和咨询。</span>
@@ -179,7 +189,7 @@ Shanghai Leading Art&Desgin University
 
    
 </body>
-	<!-- <script src="../js/sticky.js"></script> -->
-	<script src="../js/jquery-1.12.3.min.js"></script>
-	<script src="../js/main.js"></script>
+	<!-- <script src="<?php echo SUBROOT;?>./js/sticky.js"></script> -->
+	<script src="<?php echo SUBROOT;?>./js/jquery-1.12.3.min.js"></script>
+	<script src="<?php echo SUBROOT;?>./js/main.js"></script>
 </html>
