@@ -1,0 +1,2 @@
+banner: 1920 * auto
+article: 600 * auto

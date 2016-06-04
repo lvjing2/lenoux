@@ -2,7 +2,7 @@
 	<!-- start header -->
 	<div id="wrap">
 		<div id="header" >
-		<h1 class="logo" title="Lenovo User Experience Labs"><a href="#"><img src="<?php echo WEB_ROOT_DIR;?>imgs/logo.jpg" alt="Lenovo User Experience Labs" /></a></h1>
+		<h1 class="logo" title="Lenovo User Experience Labs"><a href="#"><img src="<?php echo WEB_ROOT_DIR;?>imgs/icons/logo.jpg" alt="Lenovo User Experience Labs" /></a></h1>
 			
 			<div class="search-area clear">
 				<input class="search"  type="text" name="" value="" placeholder="请输入关键字">
@@ -46,7 +46,7 @@
 		        <li class="first-nav"><a href="#">L.U.X 学院<span class ="trangle_down"></a>
 					<ul class="subs">
 		                <li><a href="#">workshop</a></li>
-		                <li><a href="#">干货</a></li>
+		                <li><a href="<?php echo WEB_ROOT_DIR?>./academic/stuff/stuff.php">干货</a></li>
 		                <li><a href="#">线上课堂</a></li>
 		                <li><a href="#">博士问答</a></li>
                         <li><a href="<?php echo WEB_ROOT_DIR?>./academic/vr/vr.php">VR</a></li>
