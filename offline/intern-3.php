@@ -37,23 +37,42 @@
 		<div class="main fl">
 				
             <div class="article-title">
-           		<p>张汉雁</p>
+           		<p>张汉雁 <span class="motto">“Tomorrow is another day”</span></p>
             </div>
 				<div class="article">
 					<div class="des-center">
-					  <p>院校<br>
+					             <p><span class="bold">院校</span><br>
                         华东师范大学</p>
-                        <p>重要经历<br>
-                          曾获上海市挑战杯大学生课外科技竞赛二等奖<br>
-                          曾获华师大“大夏杯”大学生课外学术竞赛一等奖<br>
-                          曾参加国家大学生创新实践项目《社会辅助决策软件的研究与实现》<br>
-                      曾参加阿里巴巴“小鱼治水——清源洁水行动”</p>
-                        <p>个人爱好<br>
-                          电影、美食、被摄影</p>
-                        <p>社交媒体<br>
-                          微博：@肥硕小duangduang<br>
-                          微信：cici_dun<br>
-                        </p>  
+                        <div class="intern-image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-3.1.png"></div>
+                        <p><span class="bold">Lenovo实习时间</span><br>
+                          2015年10月—2016年5月
+                        </p>
+                        <div class="intern-image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-3.2.png"></div>
+                        <p><span class="bold">参与项目</span><br>
+                        Miix 700 sticker position research<br>
+                        310S beta test<br>
+                        Touchpad UE evaluation<br>
+                        Gaming day evens<br>
+                        Miix activity pen UE research<br>
+                        Boot time UE evaluation<br>
+                        Magnetic force UE evaluation research<br>
+                        Assertive display UE research<br>
+                        Big data prediction model research
+                        </p>
+                        <div class="intern-image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-3.3.png"></div>
+                        <p><span class="bold">重要经历</span><br>
+                          2014年3月至2015年9月参与国家大学生创新项目《多值定性比较分析工具的研究与实现》<br>
+                          2014年9月至2015年6月参与《具备逻辑化建及反设分析的多值定性比较分析工具》项目并获上海市课外学术作品竞赛二等奖。<br>
+                          2015年3月至2015年7月 担任华东师范大学国际交流处助理管理员<br>
+                          2015年8月至2015年10月 担任华东师范大学信息办助理管理员<br>
+                          2016年6月 担任中国浙江投资贸易洽谈会志愿者</p>
+                        <div class="intern-image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-3.4.png"></div>
+                        <p><span class="bold">个人爱好</span><br>
+                          吃吃吃、浪浪浪、拍拍拍</p>
+                        <p><span class="bold">社交媒体</span><br>
+                          微信：18801773913 <br>
+                          微博：@肥硕小duangduang
+                        </p>
                   </div>
             </div>
 		</div>

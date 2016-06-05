@@ -508,6 +508,12 @@ h2{font-size: 20px;color: #E22319; }
 	margin-left: 10px;
 }
 
+.article-title .motto {
+	font-size: 16px;
+	text-align: right;
+	margin-left: 80px;
+}
+
 .article h3{
 	font-size: 18px;
 	letter-spacing: 1px;
@@ -792,7 +798,7 @@ h2{font-size: 20px;color: #E22319; }
 }
 .company li a{
     display:inline-block;
-    height: 70px; background: url(../imgs/icons/cooperation.gif)  no-repeat;   
+    height: 70px; background: url(../imgs/icons/cooperation.png)  no-repeat;   
 }
 
 
@@ -804,13 +810,13 @@ h2{font-size: 20px;color: #E22319; }
 .company .cat-6 a{width: 100px;background-position: -553px 0px;}
 .company .cat-7 a{width: 135px;background-position: -653px 0px;}
 .company .cat-8 a{width: 132px;background-position: -787px 0px;}
-.company .cat-9 a{width: 145px;background-position: 0 -70px;}
-.company .cat-10 a{width: 115px;background-position: -145px -70px;}
-.company .cat-11 a{width: 120px;background-position: -260px -70px;}
-.company .cat-12 a{width: 120px;background-position: -380px -70px;}
-.company .cat-13 a{width: 150px;background-position: -500px -70px;}
-.company .cat-14 a{width: 110px;background-position: -650px -70px;}
-.company .cat-15 a{width: 132px;background-position: -760px -70px;}
+.company .cat-9 a{width: 150px;background-position: 0 -75px;}
+.company .cat-10 a{width: 120px;background-position: -150px -75px;}
+.company .cat-11 a{width: 160px;background-position: -270px -75px;}
+.company .cat-12 a{width: 150px;background-position: -430px -75px;}
+.company .cat-13 a{width: 170px;background-position: -580px -75px;}
+.company .cat-14 a{width: 150px;background-position: -750px -75px;}
+
 
 /*end cooperation*/
 

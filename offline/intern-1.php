@@ -36,41 +36,36 @@
 		<div class="main fl">
 				
             <div class="article-title">
-           		<p>吴宇</p>
+           		<p>吴宇 <span class="motto">“能拖到明天的事，今天绝对不会做”</span></p>
             </div>
 				<div class="article">
 					<div class="des-center">
-                        <p>
-院校</br> 
-本科-东华大学 设计学院 工业设计 </br>   
-硕士 新南威尔士大学 设计学院 设计
-</p>
-<p>
-
-重要经历</br>
-2014年 第三届山东博物馆文化产品设计大赛 三等奖 </br>
-第八届荷兰鹿特丹大学工业设计workshop 最佳奖 </br>
-2015年 Excellent Design of 2015 Istituto Marangonl</br>
-            - Competition for Shanghai Leading Art&Desgin University </br>
-"东方财富网“杯中国青年app大赛上海市赛区 创意类二等奖
-</p>
-
-<p>                      
-奖学金  </br>       
-2015年 东华大学学习优秀奖 </br>
-东华大学社会工作优秀奖 </br>
-东华大学 SAB伟星奖学金二等奖
-</p>
-
-<p>
-电子竞技       </br>  
-league of legends    第四赛季钻石五段 第五赛季钻石四段 第六赛季钻石一段
-</p>
-
-<p>
-社交媒体</br>
-Wechat--aniaoci
-</p>  
+                        <p><span class="bold">院校</span></br>
+                        本科-东华大学 设计学院 工业设计 </br>
+                        硕士 新南威尔士大学 设计学院 设计
+                        </p>
+                        <div class="intern-image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-1.1.png"></div>
+                        <p><span class="bold">重要经历</span></br>
+                        2014年 第三届山东博物馆文化产品设计大赛 三等奖 </br>
+                        第八届荷兰鹿特丹大学工业设计workshop 最佳奖 </br>
+                        2015年 Excellent Design of 2015 Istituto Marangonl</br>
+                                    - Competition for Shanghai Leading Art&Desgin University </br>
+                        "东方财富网“杯中国青年app大赛上海市赛区 创意类二等奖
+                        </p>
+                        <div class="intern-image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-1.2.png"></div>
+                        <p><span class="bold">奖学金</span></br>       
+                        2015年 东华大学学习优秀奖 </br>
+                        东华大学社会工作优秀奖 </br>
+                        东华大学 SAB伟星奖学金二等奖
+                        </p>
+                        <div class="intern-image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-1.3.png"></div>
+                        <p><span class="bold">电子竞技</span></br>
+                        league of legends    第四赛季钻石五段 第五赛季钻石四段 第六赛季钻石一段
+                        </p>
+                        <div class="intern-image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-1.4.png"></div>
+                        <p><span class="bold">社交媒体</span></br>
+                        Wechat--aniaoci
+                        </p>  
                 </div>
             </div>
 		</div>

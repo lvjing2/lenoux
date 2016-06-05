@@ -18,7 +18,6 @@
 			<li class="cat-12"><a href=""></a></li>
 			<li class="cat-13"><a href=""></a></li>
 			<li class="cat-14"><a href=""></a></li>
-			<li class="cat-15"><a href=""></a></li>
 		</ul>
 			
 	</div>
