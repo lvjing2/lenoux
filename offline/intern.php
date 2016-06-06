@@ -126,8 +126,70 @@ Shanghai Leading Art&Desgin University
 							<span class="des-time">2天前</span>
 						</p>
 						<p>参加美国芝加哥IHA创新设计大赛。</br>
-参与编写《创意设计共性关键技术集成研发（国家科技支撑计划）》</br>
-参加中国美术学院与香港科技大学合作的design thinking联合课程，并担任助教。
+						参与编写《创意设计共性关键技术集成研发（国家科技支撑计划）》</br>
+						参加中国美术学院与香港科技大学合作的design thinking联合课程，并担任助教。
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="main_wrap clear">
+				<div class="section fl">
+				<span>用研</span>
+					<a href="./intern-5.php"><img src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-5-thumbnail.png" alt=""></a>
+				</div>
+				<div class="description fr">
+					<div class="des-center">
+						<h3><a href="./intern-5.php">罗心懿——硕士 中国美术学院 </a></h3>
+						<p>
+							<span class="des-name">Hersey </span> |
+							<span class="des-time">2天前</span>
+						</p>
+						<p>上海市瑞霖杯工业设计大赛优秀奖 <br>
+						高露洁校企合作比赛银奖 <br>
+						同济大学与荷兰代夫特理工大学联合举办交互工作坊 <br>
+						上海市博物馆衍生大赛金奖 <br>
+						毕业设计参与中国美术学院上海设计学院与浙江途尔车业校企合作项目
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="main_wrap clear">
+				<div class="section fl">
+				<span>用研</span>
+					<a href="./intern-6.php"><img src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-6-thumbnail.png" alt=""></a>
+				</div>
+				<div class="description fr">
+					<div class="des-center">
+						<h3><a href="./intern-6.php">韩牧云——硕士 中国美术学院 </a></h3>
+						<p>
+							<span class="des-name">Hersey </span> |
+							<span class="des-time">2天前</span>
+						</p>
+						<p>参与浦东青年杂志编辑 <br>
+						参与举办上海新锐青年设计展<br>
+						上海博砚建筑事务所实习<br>
+						2015年6月毕业于中国美术学院上海设计学院<br>
+						获得中国美术学院上海设计学院毕业设计金奖
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="main_wrap clear">
+				<div class="section fl">
+				<span>用研</span>
+					<a href="./intern-7.php"><img src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-7-thumbnail.png" alt=""></a>
+				</div>
+				<div class="description fr">
+					<div class="des-center">
+						<h3><a href="./intern-7.php">赵沁怡——硕士 江南大学 </a></h3>
+						<p>
+							<span class="des-name">Hersey </span> |
+							<span class="des-time">2天前</span>
+						</p>
+						<p>2011年9月-2012年1月 赴丹麦哥本哈根大学工程学院交流学习<br>
+						2014年3月 赴美参加圣荷西艺术联合中心美国拉波蒂船侬国际艺术节<br>
+						2014年9月-2015年9月 赴英国巴斯大学交流学习，获得创新与技术管理专业硕士学位<br>
+						现就读于山东大学设计学专业，属山东大学品牌与传播研究所
 						</p>
 					</div>
 				</div>
