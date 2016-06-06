@@ -39,20 +39,29 @@
             </div>
 				<div class="article">
 					<div class="des-center">
-                        <p>院校<br>
-                        华东师范大学 心理与认知科学学院</p>
-                        <p>重要经历<br>
-                          冷泉港(亚洲)-上海纽约大学计算神经科学暑期夏令营营员<br>
-                          法国领事馆音乐节志愿者 <br>
-                      华东师范大学“心理慰藉”志愿者</p>
-                        <p>获奖经历<br>
-                          上海大学及华东师范大学优秀学生 <br>
-                          华东师范大学“大夏杯”学术科技作品竞赛一等奖团队负责人</p>
-                        <p>个人爱好<br>
-                          慢跑 写影评及段子</p>
-                        <p>社交媒体<br>
-                          豆瓣：guyue_liang<br>
-                        </p>  
+          <p class="line-bold">院校</p>
+          <p class="intern-text">
+            华东师范大学 心理与认知科学学院
+          </p>
+          <p class="line-bold">重要经历</p>
+          <p class="intern-text">
+            冷泉港(亚洲)-上海纽约大学计算神经科学暑期夏令营营员<br>
+            法国领事馆音乐节志愿者 <br>
+            华东师范大学“心理慰藉”志愿者
+          </p>
+          <p class="line-bold">获奖经历</p>
+          <p class="intern-text">
+            上海大学及华东师范大学优秀学生 <br>
+            华东师范大学“大夏杯”学术科技作品竞赛一等奖团队负责人
+          </p>
+          <p class="line-bold">个人爱好</p>
+          <p class="intern-text">
+          慢跑 写影评及段子
+          </p>
+          <p class="line-bold">社交媒体</p>
+          <p class="intern-text">
+          豆瓣：guyue_liang
+          </p> 
                   </div>
             </div>
 		</div>

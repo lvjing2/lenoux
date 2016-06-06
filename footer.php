@@ -29,7 +29,7 @@
 			<img style="vertical-align: middle;" src="<?php echo WEB_ROOT_DIR;?>imgs/icons/twodimecode.gif" alt="">
 			</div>
 			<div class="contact">
-				<p class="addr">地址：上海市浦东新区松涛路696号  联想大厦<br/>联想笔记本众测平台</p>
+				<p class="addr">地址：上海市浦东新区松涛路696号  联想大厦<br/>微博：联想笔记本众测平台</p>
 				<p class="eml">微信：Ideapad_UE_Centre</p>
 			</div>
 		</div>

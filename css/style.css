@@ -546,6 +546,7 @@ h2{font-size: 20px;color: #E22319; }
 .article .intern-image{
 	margin-right: 20px;
 	margin-top: 15px;
+	margin-bottom: 10px;
 	text-align: left;
 }
 
@@ -607,6 +608,18 @@ h2{font-size: 20px;color: #E22319; }
 
 .article .bold{
 	font-weight: bold;
+}
+
+.article .line-bold{
+	border-left: 2px  solid #e2231a;
+	margin-left: 2px;
+	padding-left: 10px;
+	font-weight: bold;
+}
+
+.article .intern-text{
+	margin-left: 2em;
+	margin-top: 0px;
 }
 
 /* end article */

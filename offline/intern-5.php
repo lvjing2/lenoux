@@ -41,15 +41,18 @@
             </div>
 				<div class="article">
 					<div class="des-center">
-						<p><span class="bold">院校</span><br>
+						<p class="line-bold">院校</p>
+                        <p class="intern-text">
                         中国美术学院</p>
                         <div class="intern-image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-5.1.png"></div>
-                    	<p><span class="bold">Lenovo实习时间</span><br>
+                    	<p class="line-bold">Lenovo实习时间</p>
+                        <p class="intern-text">
 							2014年10月—2015年4月<br>
 							参与Y900游戏本开发
 						</p>
                         <div class="intern-image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-5.2.png"></div>
-                        <p><span class="bold">重要经历</span><br>
+                        <p class="line-bold">重要经历</p>
+                        <p class="intern-text">
                         2013年12月 上海市瑞霖杯工业设计大赛优秀奖 <br>
                         2015年5月  高露洁校企合作比赛银奖<br>
                         2015年7月  同济大学与荷兰代夫特理工大学联合举办交互工作坊<br>
@@ -57,10 +60,12 @@
                         2016年五月  毕业设计参与中国美术学院上海设计学院与浙江途尔车业校企合作项目<br>
                         2016年9月  即将就读中国美术学院设计艺术学院工业设计系人与休闲工作室</p>
                         <div class="intern-image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-5.3.png"></div>
-                        <p><span class="bold">个人爱好</span><br>
+                        <p class="line-bold">个人爱好</p>
+                        <p class="intern-text">
                           音乐，美食，旅游</p>
                         <div class="intern-image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-5.4.png"></div>
-                        <p><span class="bold">社交媒体</span><br>
+                        <p class="line-bold">社交媒体</p>
+                        <p class="intern-text">
    							微信：15502115676
                         </p>  
                   </div>

@@ -41,14 +41,18 @@
             </div>
 				<div class="article">
 					<div class="des-center">
-					             <p><span class="bold">院校</span><br>
-                        华东师范大学</p>
+					             <p class="line-bold">院校</p>
+                       <p class="intern-text">
+                        华东师范大学
+                        </p>
                         <div class="intern-image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-3.1.png"></div>
-                        <p><span class="bold">Lenovo实习时间</span><br>
+                        <p class="line-bold">Lenovo实习时间</p>
+                        <p class="intern-text">
                           2015年10月—2016年5月
                         </p>
                         <div class="intern-image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-3.2.png"></div>
-                        <p><span class="bold">参与项目</span><br>
+                        <p class="line-bold">参与项目</p>
+                        <p class="intern-text">
                         Miix 700 sticker position research<br>
                         310S beta test<br>
                         Touchpad UE evaluation<br>
@@ -60,16 +64,19 @@
                         Big data prediction model research
                         </p>
                         <div class="intern-image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-3.3.png"></div>
-                        <p><span class="bold">重要经历</span><br>
+                        <p class="line-bold">重要经历</p>
+                        <p class="intern-text">
                           2014年3月至2015年9月参与国家大学生创新项目《多值定性比较分析工具的研究与实现》<br>
                           2014年9月至2015年6月参与《具备逻辑化建及反设分析的多值定性比较分析工具》项目并获上海市课外学术作品竞赛二等奖。<br>
                           2015年3月至2015年7月 担任华东师范大学国际交流处助理管理员<br>
                           2015年8月至2015年10月 担任华东师范大学信息办助理管理员<br>
                           2016年6月 担任中国浙江投资贸易洽谈会志愿者</p>
                         <div class="intern-image"><img class="intern-figure" src="<?php echo SUBROOT;?>./imgs/offline/intern/intern-3.4.png"></div>
-                        <p><span class="bold">个人爱好</span><br>
+                        <p class="line-bold">个人爱好</p>
+                        <p class="intern-text">
                           吃吃吃、浪浪浪、拍拍拍</p>
-                        <p><span class="bold">社交媒体</span><br>
+                        <p class="line-bold">社交媒体</p>
+                        <p class="intern-text">
                           微信：18801773913 <br>
                           微博：@肥硕小duangduang
                         </p>
