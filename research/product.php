@@ -18,18 +18,8 @@
 	<div id="banner_tabs" class="flexslider">
         <ul class="slides">
             <li>
-                <a title="" href="./product1.php">
-                    <img class="banner-img" alt="" style="background: url(<?php echo SUBROOT;?>./imgs/research/product_imgs/img1.png) no-repeat center;" src="<?php echo SUBROOT;?>./imgs/icons/alpha.png">
-                </a>
-            </li>
-            <li>
-                <a title="" href="./product2.php">
-                    <img class="banner-img" alt="" style="background: url(<?php echo SUBROOT;?>./imgs/research/product_imgs/img2.png) no-repeat center;" src="<?php echo SUBROOT;?>./imgs/icons/alpha.png">
-                </a>
-            </li>
-            <li>
-                <a title="" href="./product3.php">
-                    <img class="banner-img" alt="" style="background: url(<?php echo SUBROOT;?>./imgs/research/product_imgs/img3.png) no-repeat center;" src="<?php echo SUBROOT;?>./imgs/icons/alpha.png">
+                <a title="" href="./product-1.php">
+                    <img class="banner-img" alt="" style="background: url(<?php echo SUBROOT;?>./imgs/research/product/product-1.png) no-repeat center;" src="<?php echo SUBROOT;?>./imgs/icons/alpha.png">
                 </a>
             </li>
         </ul>
@@ -39,8 +29,6 @@
         </ul>
         <ol id="bannerCtrl" class="flex-control-nav flex-control-paging">
             <li><a>1</a></li>
-            <li><a>2</a></li>
-            <li><a>3</a></li>
         </ol>
     </div>
 	<!-- end flexslider -->
@@ -51,16 +39,16 @@
 			<div class="main_wrap clear">
 				<div class="section fl">
 					<span>用研</span>
-					<img src="<?php echo SUBROOT;?>./imgs/index/news_img1.png" alt="">
+					<img src="<?php echo SUBROOT;?>./imgs/research/product/product-thumbnail-1.png" alt="">
 				</div>
 				<div class="description fr">
 					<div class="des-center">
-						<h3><a href="">联想用户研究实验室Lenovo User Experience Lab</a></h3>
+						<h3><a href="./product-1.php">联想Y900——游戏，是一种态度</a></h3>
 						<p>
 							<span class="des-name">Ranee</span> |
 							<span class="des-time">1天前</span>
 						</p>
-						<p>基于实验心理学、工程心理学及人因神经学等学科知识，挖掘用户态度及用户行为的深层次冬季，对产品的设计与研发提供客观、量比且具有可操作性的支持。	
+						<p>Y900：Born to Gaming  不羁的个性、狂野暴力是镌刻在游戏本骨子里的基因，联想Y900可以说是重新定义游戏本的一款产品，有机会给暂无明确标准的游戏本市场提供了一个行业标杆。	
 						</p>
 					</div>
 				</div>

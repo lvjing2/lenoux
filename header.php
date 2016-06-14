@@ -54,8 +54,8 @@
 		        </li>
 		    </ul>
 	        <p class="share">
-	        	<a href="#" class="icon1"></a>
-	        	<a href="#" class="icon2"> </a>
+	        	<a target="_blank" href="http://weibo.com/lenovonbzc?refer_flag=1001030201_&is_hot=1" class="icon1"></a>
+	        	<a target="_blank" href="http://mp.weixin.qq.com/s?__biz=MzIwMTM3NDYwOQ==&mid=209519021&idx=1&sn=15f6e855ffb5d93fce3c620735f62536&scene=18#wechat_redirect" class="icon2"> </a>
 	        </p>
 	    	<div style="clear:both"></div>
     	</div>

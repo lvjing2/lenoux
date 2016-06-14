@@ -557,6 +557,14 @@ h2{font-size: 20px;color: #E22319; }
 	object-fit: cover;
 }
 
+.article .product-figure{
+	margin-left: 50px;
+	margin-bottom: 15px;
+	width: 600px;
+	height: auto;
+	object-fit: cover;
+}
+
 .article a{
 	color: #0287d7;
 	font-style:italic;	
@@ -615,6 +623,20 @@ h2{font-size: 20px;color: #E22319; }
 	margin-left: 2px;
 	padding-left: 10px;
 	font-weight: bold;
+}
+
+
+.article .subtitle-product {
+	width: 90%; 
+	text-align: center; 
+	border-bottom: 1px solid #ddd; 
+	line-height: 0.1em;
+	margin: 20px 10px 20px 10px;
+	font-weight: bold;
+}
+
+.article .subtitle-product span {
+	background:#eeeeee; 
 }
 
 .article .intern-text{
