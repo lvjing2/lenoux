@@ -637,6 +637,8 @@ h2{font-size: 20px;color: #E22319; }
 
 .article .subtitle-product span {
 	background:#eeeeee; 
+	padding-left: 10px;
+	padding-right: 10px;
 }
 
 .article .intern-text{
