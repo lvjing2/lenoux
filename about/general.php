@@ -2,7 +2,7 @@
 <html>
 
 <?php 
-	define(SUBROOT, '../');
+	define('SUBROOT', '../');
 	include (SUBROOT . 'define.php');
 ?>
 

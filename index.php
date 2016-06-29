@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <?php 
-	define(SUBROOT, './');
+	define('SUBROOT', './');
 	include 'define.php';
 ?>
 <head>

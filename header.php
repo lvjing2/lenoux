@@ -32,7 +32,7 @@
 		            <ul class="subs">
 		                <li><a href="<?php echo WEB_ROOT_DIR?>./offline/we-want-you.php">We Want U</a></li>
 		                <li><a href="#">访问体验</a></li>
-		                <li><a href="#">日常生活</a></li>
+		                <li><a href="<?php echo WEB_ROOT_DIR?>./offline/daily.php">日常生活</a></li>
 		                <li><a href="<?php echo WEB_ROOT_DIR?>./offline/intern.php">实习生明星故事</a></li>
 		            </ul>
 		        </li>

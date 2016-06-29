@@ -1,2 +1,4 @@
 banner: 1920 * auto
 article: 600 * auto
+缩略图:300 * auto
+
